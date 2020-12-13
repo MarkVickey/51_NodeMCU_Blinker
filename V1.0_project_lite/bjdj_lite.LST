@@ -1,0 +1,24 @@
+C51 COMPILER V9.01   BJDJ_LITE                                                             12/04/2020 03:48:04 PAGE 1   
+
+
+C51 COMPILER V9.01, COMPILATION OF MODULE BJDJ_LITE
+OBJECT MODULE PLACED IN bjdj_lite.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE bjdj_lite.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include<function.c> void main(){run();}
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    422    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =     70    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =      3    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

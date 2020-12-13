@@ -1,0 +1,32 @@
+C51 COMPILER V9.01   STEPPER                                                               12/11/2020 00:53:06 PAGE 1   
+
+
+C51 COMPILER V9.01, COMPILATION OF MODULE STEPPER
+OBJECT MODULE PLACED IN stepper.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE stepper.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include <All_Functions.c>
+   2          void main()
+   3          {
+   4   1      init();
+   5   1      while(1)
+   6   1      {
+   7   2      run();
+   8   2      }
+   9   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =   1017    ----
+   CONSTANT SIZE    =     76    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =     66       4
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =      5    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

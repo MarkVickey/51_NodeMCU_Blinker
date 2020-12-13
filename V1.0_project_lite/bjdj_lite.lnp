@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"bjdj_lite.obj" 
+TO "bjdj_lite" 
+RAMSIZE(256) 

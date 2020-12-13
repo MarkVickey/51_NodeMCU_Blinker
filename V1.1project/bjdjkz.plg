@@ -1,0 +1,308 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Win File\Desktop\89C52Project\project\bjdjkz.uvproj
+Project File Date:  12/10/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'zz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'fz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(5): error C202: 'speedlow': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(9): error C202: 'speedlow': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(10): error C202: 'speedup_key': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(15): error C202: 'speedup_key': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(16): error C202: 'start': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(20): error C202: 'start': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(21): error C202: 'turn': undefined identifier
+STEPPER_USE_KEY_CONTROL.C(25): error C202: 'turn': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'zz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'fz': missing function-prototype
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?EVENT_CHECK?STEPPER
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 025DH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0260H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0274H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0277H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 028EH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0291H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02A0H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02A3H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02B2H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02B5H
+Program Size: data=77.5 xdata=0 code=1289
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 15 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'zz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'fz': missing function-prototype
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?EVENT_CHECK?STEPPER
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 025DH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0260H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0274H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0277H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 028EH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0291H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02A0H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02A3H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02B2H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02B5H
+Program Size: data=77.5 xdata=0 code=1289
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 15 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'zz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'fz': missing function-prototype
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 025DH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0260H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0274H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0277H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 028EH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 0291H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02A0H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02A3H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  ZZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02B2H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  FZ
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 02B5H
+Program Size: data=77.5 xdata=0 code=1292
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 14 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'zz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(4): warning C206: 'fz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(15): warning C206: 'Stepper_Run': missing function-prototype
+STEPPER_RUN.C(57): error C231: 'Stepper_Run': redefinition
+STEPPER_RUN.C(69): error C231: 'Stepper_Run': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(9): warning C206: 'zz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(9): warning C206: 'fz': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(15): warning C206: 'Stepper_Run': missing function-prototype
+STEPPER_RUN.C(57): error C231: 'Stepper_Run': redefinition
+STEPPER_RUN.C(69): error C231: 'Stepper_Run': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+STEPPER_USE_KEY_CONTROL.C(9): warning C206: 'Stepper_Run': missing function-prototype
+STEPPER_RUN.C(57): error C231: 'Stepper_Run': redefinition
+STEPPER_RUN.C(69): error C231: 'Stepper_Run': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?EVENT_CHECK?STEPPER
+Program Size: data=77.5 xdata=0 code=1271
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+IR_REMOTE_INIT.C(82): warning C206: 'key_check': missing function-prototype
+STEPPER_USE_KEY_CONTROL.C(4): error C231: 'key_check': redefinition
+STEPPER_USE_KEY_CONTROL.C(26): error C231: 'key_check': redefinition
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+ALL_FUNCTIONS.C(31): warning C206: 'Receive_Check': missing function-prototype
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?IR_RECEIVE_CHECK?STEPPER
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  RECEIVE_CHECK
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  RECEIVE_CHECK
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 04C9H
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?IR_RECEIVE_CHECK?STEPPER
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  RECEIVE_CHECK
+    MODULE:  stepper.obj (STEPPER)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  RECEIVE_CHECK
+    MODULE:  stepper.obj (STEPPER)
+    ADDRESS: 04C9H
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stepper.c...
+linking...
+Program Size: data=77.5 xdata=0 code=1274
+creating hex file from "bjdjkz"...
+"bjdjkz" - 0 Error(s), 0 Warning(s).
